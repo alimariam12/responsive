@@ -3,21 +3,38 @@ float: left;
 margin: 1em;
 }
 
-body {
-    background-image: url(https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01-768x515.jpg);
+.navbar-nav {
+    margin-left: 65em;
+    background-color: #807070;
+}
+
+.page-header {
+    padding: 20px;
+    font-family:'David Libre', serif;
+    background-color: #807070;
+    color: #ffffff;
+    font-size: 48px;
+    width: 95%;
+    height: 10%;
+  }
+
+  body {
+    background-image: url(https://cdn.wallpapersafari.com/74/6/fqM0zF.png);
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    }
+  }
 
 .about-me{
- background-color: white;
+ background-color: #807070;
  width: 95%;
 }
 
 .page-header{
     font-size: 48px;
 }
+
+
 
