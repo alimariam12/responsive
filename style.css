@@ -94,11 +94,38 @@ body {
   text-align: center;
 }
 
-@media (max-width: 800px){
+@media screen and (max-width: 768px){
   body{
     background-color: #252222;
   }
   .wrapper {
-    width: 600px;
+    width: 100%;
+    padding: 20px;
   }
-]
+  #navbarNavDropdown {
+    width: 100%;
+  }
+  @media screen and (max-width: 320px){
+    body{
+      background-color: #252222;
+    }
+    .wrapper {
+      width: 100px;
+      margin: 20px;
+    }
+    #navbarNavDropdown {
+      width: 100%;
+    }
+  @media screen and (max-width: 168px){
+      body{
+        background-color: #252222;
+      }
+      .wrapper {
+        width: 100px;
+        margin: 20px;
+      }
+    
+  
+  #navbarNavDropdown {
+    width: 100%;
+  }
