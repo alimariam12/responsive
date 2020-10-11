@@ -9,4 +9,4 @@ For this assignment we were challenged to make a moblie responsive portfolio. Th
  - Github to start a new repository 
  
  ### License
- `Copyright 2020 &copy; Mariam Ali`
+ `Copyright 2020 Mariam Ali`
