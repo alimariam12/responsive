@@ -8,7 +8,7 @@ margin: 1em;
     background-color: #807070;
 }
 
-.page-header {
+.page-header1 {
     padding: 20px;
     font-family:'David Libre', serif;
     background-color: #807070;
@@ -32,9 +32,63 @@ margin: 1em;
  width: 95%;
 }
 
-.page-header{
+.page-header1{
     font-size: 48px;
 }
 
 
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #d9dcd6;
+}
 
+.navbar-nav {
+  margin-left: 65em;
+  background-color: #807070;
+}
+
+.page-header2 {
+  padding: 10px;
+  font-family: 'David Libre', serif;
+  background-color: #632d2d;
+  color: #ffffff;
+}
+.beach {
+  float: right;
+  width: 30%;
+  margin: 2em;
+}
+.babypic {
+  float: left;
+  width: 30%;
+  margin: 2em;
+}
+.sunflower {
+  float: left;
+  width: 33%;
+  margin: 2em;
+}
+.inthecar {
+  float: right;
+  width: 30%;
+  margin: 2em;
+}
+.navbar-nav {
+  margin-left: 65em;
+  background-color: #807070;
+}
+
+
+
+.page-header3 {
+  padding: 10px;
+  font-family:'David Libre', serif;
+  color: #ffffff;
+  font-size: 48px;
+  width: 95%;
+  height: 10%;
+}
